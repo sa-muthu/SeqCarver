@@ -1,6 +1,6 @@
 # SeqCarver
 
-Carve any genome into feature and non-feature sequence blocks from a FASTA + GFF3/GTF annotation. Outputs a FASTA and a coordinate table covering 100% of the input sequence.
+Carve a genome into feature and non-feature sequence blocks from a FASTA + GFF3/GTF annotation. Outputs a FASTA and a coordinate table covering 100% of the input sequence.
 
 ---
 
