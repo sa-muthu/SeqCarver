@@ -1,0 +1,30 @@
+# pyfaidx index files
+*.fai
+
+# compressed outputs that don't need tracking
+*.fasta.gz
+*.fa.gz
+
+# temp/scratch workdirs
+geneextract_*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# virtual envs
+.venv/
+venv/
+env/
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
